@@ -1,0 +1,1 @@
+java -jar C:\Users\89502\OneDrive\Documents\NetBeansProjects\Accountant\dist\Accountant.jar
